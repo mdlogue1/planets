@@ -2,4 +2,8 @@ Cold and dry but everything is my favorite color -- red
 The two moons are a problem for the Wolfman
 Another extra change to show how diff works
 The Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 Adding almost anything
+=======
+This line added to Wolfman's copy
+>>>>>>> 2a863532b1e407b842f881b0d6cf875d0b0e055a
